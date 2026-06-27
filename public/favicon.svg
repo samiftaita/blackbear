@@ -1,0 +1,11 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" fill="#e8e6e0"/>
+  <text
+    x="4" y="50"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="44"
+    font-weight="700"
+    fill="#0a0a0a"
+    letter-spacing="-2"
+  >BBR</text>
+</svg>
